@@ -36,5 +36,9 @@ An interactive Streamlit app that uses a local AI model (Mistral via Ollama) to 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/ai-time-estimator.git
+git clone https://github.com/harrisali/ai-time-estimator.git
 cd ai-time-estimator
+
+## License
+
+MIT License © Harris Ali
