@@ -18,7 +18,8 @@ An interactive Streamlit app that uses a local AI model (Mistral via Ollama) to 
 
 ## Demo
 
-*(Add screenshot or GIF here if you want)*
+![image](https://github.com/user-attachments/assets/49cbe7d0-c958-4833-b773-90af28d1ab18)
+
 
 ---
 
